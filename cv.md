@@ -31,5 +31,5 @@ function multiply(a, b){
 
 ## Languages
 
-- English - A2
-- Russian - native
+- **English** - A2
+- **Russian** - native
