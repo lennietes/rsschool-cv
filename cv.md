@@ -9,3 +9,27 @@
 ## About me
 
 I am a beginner in frontend development who is interested in exploring this field and gaining new knowledge. I am looking for opportunities to gain practical experience and improve my skills.
+
+## Skills
+
+Currently learning:
+
+- Git
+- VS Code
+- Markdown
+- CSS
+- HTML
+- JavaScript
+
+## Code Example
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+## Languages
+
+- English - A2
+- Russian - native
